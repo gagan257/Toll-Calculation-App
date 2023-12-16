@@ -1,0 +1,14 @@
+.toll-calculator {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.toll-calculator form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.toll-calculator button {
+  cursor: pointer;
+}
